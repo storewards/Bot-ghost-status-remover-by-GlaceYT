@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING","Roblox Birdio"];
+const statusMessages = ["Watching over Roblox BIrd"];
 
 
 let currentIndex = 0;
